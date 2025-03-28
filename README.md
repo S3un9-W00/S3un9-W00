@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect)
+![header](https://capsule-render.vercel.app/api?type=rect&height=300&text=I%20wanna%20be%20with%20you%20🧡)
 
 <!--
 **S3un9-W00/S3un9-W00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
