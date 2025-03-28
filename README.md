@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=I%20wanna%20be%20with%20you%20🧡) <br/>
 
+
+## 🤪 INTRODUCE 🤪:<br/>
+  Hello, I'm Seung Woo Ahn(S3un9-W00).<br/>I just want to normal person 👍.<br/>I will show you how hard I am coding in the future.❤️
+  <br/>
+
 ## 😇 My [INFO] 😇:<br/>
   age : 18<br/>
   school : sungil-information-high-scool<br/>
