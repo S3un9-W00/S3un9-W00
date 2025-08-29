@@ -6,11 +6,11 @@
   <br/>
 
 ## 😇 My [INFO] 😇:<br/>
-  <strong>🤗Age🤗</strong> : 18<br/>
-  <strong>🏫School🏫</strong> : sungil-information-high-scool<br/>
-  <strong>😎Job😎</strong> : student<br/>
-  <strong>🎸Hobby🎸</strong> : music, game, exercise and etc...<br/>
-  <strong>📖What I'm currently doing📖</strong> : I'm studying APIs using Flask, AI using TensorFlow, and to gain a deeper understanding of web hacking, I'm learning both backend and frontend to create my own website and improve its security.<br/>
+  <strong>[🤗 Age 🤗]</strong> : 18<br/>
+  <strong>[🏫 School 🏫]</strong> : sungil-information-high-scool<br/>
+  <strong>[😎 Job 😎]</strong> : student<br/>
+  <strong>[🎸 Hobby 🎸]</strong> : music, game, exercise and etc...<br/>
+  <strong>[📖 What I'm currently doing 📖]</strong> : I'm studying APIs using Flask, AI using TensorFlow, and to gain a deeper understanding of web hacking, I'm learning both backend and frontend to create my own website and improve its security.<br/>
 <br/>
 <br/>
 ## 😎 Stack 😎 :<br/>
