@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/-Oracle_PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white"/><br/>
   <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/><br/>
+  <img src="https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black"/><br/>
   <br/>
   <br/>
 ## 📊 Stat 📊 :<br/>
